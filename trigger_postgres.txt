@@ -1,0 +1,2 @@
+http://technobytz.com/sql-trigger-example-in-postgresql.html
+http://www.postgresqltutorial.com/creating-first-trigger-postgresql/
